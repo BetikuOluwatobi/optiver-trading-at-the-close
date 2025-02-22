@@ -1,5 +1,5 @@
 # Optiver - Trading at the Close
-In this competition, we were tasked with developing a model capable of predicting the closing price movements for hundreds of Nasdaq-listed stocks. The data included information from the order book and the closing auction of the stocks.
+In this competition, I developed a model capable of predicting the closing price movements for hundreds of Nasdaq-listed stocks. The data included information from the order book and the closing auction of the stocks.
 
 ## Solution Overview
 My approach to solving this challenge focused on:
